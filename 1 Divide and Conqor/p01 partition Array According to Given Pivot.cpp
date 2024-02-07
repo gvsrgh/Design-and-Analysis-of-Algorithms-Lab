@@ -19,9 +19,6 @@ public:
                 final1.push_back(nums[i]);
             }
         }
-        
-       
-
         return final1;
     }
 };
